@@ -3,7 +3,7 @@
 A complete, practical guide to modern SEO using AI tools. Includes workflows, prompts, automation strategies, and checklists to simplify and scale your SEO efforts.
 
 ## 📌 What's Inside
-- ✅ SEO Fundamentals & On-Page Checklist
+- ✅ SEO Fundamentals & On-Page Checklist 
 - 🤖 AI-Based SEO Workflows & Prompt Library
 - 📄 Case Studies & Examples
 - 🧠 Curated SEO Resources
